@@ -2,4 +2,4 @@
 
 ![Model](AX309_Galaxian.jpg)
 
-Galaxian Arcade
+Galaxian Arcade synthesized on an AX309 Clone Dev Board.
